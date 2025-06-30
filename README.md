@@ -23,7 +23,7 @@ matplotlib for chart display
 os.system to block IPs via firewall (Windows)
 
 🛠️ Installation
-git clone https://github.com/yourusername/packet-sniffer
+git clone https://github.com/sanidhya253/Network-sniffer
 cd packet-sniffer
 pip install -r requirements.txt
 python gui.py
